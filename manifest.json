@@ -1,0 +1,18 @@
+
+{
+  "name": "AI Culinary Companion",
+  "short_name": "Culinary AI",
+  "description": "An AI-powered recipe generator that helps you discover new dishes based on ingredients you have, dietary preferences, and more.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

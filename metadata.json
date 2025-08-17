@@ -1,0 +1,6 @@
+{
+  "name": "AI Culinary Companion",
+  "description": "An AI-powered recipe generator that helps you discover new dishes based on ingredients you have, dietary preferences, and more. Get detailed instructions, watch video tutorials, and even ask the AI for help while you cook.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

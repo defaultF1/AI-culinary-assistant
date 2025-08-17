@@ -1,2 +1,16 @@
-# AI-culinary-assistant
-AI-powered culinary assistant generates unique recipes from your ingredients or ideas. It provides detailed instructions, finds relevant video tutorials, and includes a built-in AI chat to answer your cooking questions. You can save your favourite recipes and view your cooking history, making it your go-to companion for culinary exploration.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/15u5qHu1qxgxAyuW_rcaDxwzY9RBNQwCN?showPreview=true&showCode=true&showAssistant=true&showTreeView=true
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
